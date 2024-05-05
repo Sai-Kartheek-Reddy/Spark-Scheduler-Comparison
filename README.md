@@ -29,7 +29,3 @@ Moreover, the choice of algorithm and its parameter settings can significantly a
 ### Hyperparameter Tuning
 
 Hyperparameter tuning is essential for optimizing the performance of machine learning models. We employed grid search cross-validation to find the best combination of hyperparameters for FP Growth and Random Forest algorithms.
-
-## Cluster Architecture
-
-Our Spark cluster consists of multiple nodes, with one master node and several worker nodes. When a job is submitted to the cluster, it is divided into tasks, which are then distributed among the worker nodes for parallel execution. Once the tasks are completed, the results are aggregated by the master node, which then presents the final results to the user.
