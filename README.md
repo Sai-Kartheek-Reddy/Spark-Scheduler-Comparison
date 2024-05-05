@@ -10,7 +10,7 @@ Moreover, the choice of algorithm and its parameter settings can significantly a
 
 ## Project Architecture
 
-![Architecture](https://github.com/Sai-Kartheek-Reddy/Spark-Scheduler-Comparison/blob/main/Architecture.png)
+![Architecture](https://github.com/Sai-Kartheek-Reddy/Spark-Scheduler-Comparison/blob/main/Arch.png)
 
 ## Experiments
 
