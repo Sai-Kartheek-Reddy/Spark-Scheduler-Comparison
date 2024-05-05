@@ -8,7 +8,7 @@ In distributed computing frameworks like Spark, efficient job scheduling is cruc
 
 Moreover, the choice of algorithm and its parameter settings can significantly affect the performance of machine learning tasks. In this analysis, we focused on popular algorithms available in Spark MLlib and evaluated their performance under different scheduling configurations.
 
-## Model Architecture
+## Project Architecture
 
 ![Architecture](https://github.com/Sai-Kartheek-Reddy/Spark-Scheduler-Comparison/blob/main/Architecture.png)
 
