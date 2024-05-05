@@ -29,3 +29,6 @@ Moreover, the choice of algorithm and its parameter settings can significantly a
 ### Hyperparameter Tuning
 
 Hyperparameter tuning is essential for optimizing the performance of machine learning models. We employed grid search cross-validation to find the best combination of hyperparameters for FP Growth and Random Forest algorithms.
+
+### Conclusion and Future Work
+This project compares Spark's FIFO and FAIR schedulers in hyperparameter tuning tasks for FP Growth and Random Forest algorithms. The FAIR scheduler consistently exhibits reduced execution times across different algorithms and cluster sizes, particularly as the number of worker nodes increases, underscoring its scalability and efficiency. Further study is needed to analyze the fair scheduler on a larger number of nodes in the Spark cluster. Additionally, efforts should be made to mitigate network overhead to obtain accurate results.
